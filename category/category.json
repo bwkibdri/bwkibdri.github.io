@@ -37,6 +37,10 @@
             "c_name": "Chef"
         },
          {
+            "c_image": "https://i.pinimg.com/474x/e4/32/44/e43244641cfad0dd68e0a6a296e85726.jpg",
+            "c_name": "library"
+        },
+         {
             "c_image": "https://i.pinimg.com/474x/61/b9/59/61b9595ccea56316cd1666af7bfc8afa.jpg",
             "c_name": "Couple"
         },
@@ -51,14 +55,6 @@
         {
             "c_image": "https://i.pinimg.com/474x/66/8e/52/668e52fafc3625721748e152c3d49b57.jpg",
             "c_name": "FairyPrincess"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/a5/fe/03/a5fe034390fc5e2e430012c9e6acfbfa.jpg",
-            "c_name": "GardenFlowers"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/a5/fe/03/a5fe034390fc5e2e430012c9e6acfbfa.jpg",
-            "c_name": "GardenFlowers"
         }
     ]
 }
