@@ -49,12 +49,16 @@
             "c_name": "doctor"
         },
         {
-            "c_image": "https://firebasestorage.googleapis.com/v0/b/petshop-336506.appspot.com/o/atletecinderella%2Fcinderel%20(3).png?alt=media&token=9962acd8-7ff2-4f12-907a-7740a965dc65",
+            "c_image": "https://i.pinimg.com/474x/36/0b/ec/360bec18e6ba295924ec9fed6f42214f.jpg",
             "c_name": "athlete"
         },
         {
             "c_image": "https://i.pinimg.com/736x/fd/6f/78/fd6f7850930094551fafa6392fe98891.jpg",
             "c_name": "varsity"
+        }, 
+        {
+            "c_image": "https://i.pinimg.com/474x/75/2d/51/752d5132da3ac52dde24fffcb992fc34.jpg",
+            "c_name": "direktur"
         },
         {
             "c_image": "https://i.pinimg.com/474x/bc/b8/20/bcb82014bc2cffe4390fbf54dc69b7a9.jpg",
