@@ -53,6 +53,10 @@
             "c_name": "doctor"
         },
         {
+            "c_image": "https://i.pinimg.com/474x/e9/17/89/e917892954365fe46bcd344e87055d48.jpg",
+            "c_name": "Teacher"
+        }, 
+        {
             "c_image": "https://i.pinimg.com/474x/36/0b/ec/360bec18e6ba295924ec9fed6f42214f.jpg",
             "c_name": "athlete"
         },
