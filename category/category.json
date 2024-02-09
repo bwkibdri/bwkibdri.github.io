@@ -40,9 +40,14 @@
             "c_image": "https://i.pinimg.com/474x/1e/a3/e0/1ea3e0579ad3f867f25317dcaff37b6b.jpg",
             "c_name": "VegetableSeller"
         },
+        
          {
             "c_image": "https://i.pinimg.com/474x/e4/32/44/e43244641cfad0dd68e0a6a296e85726.jpg",
             "c_name": "library"
+        },
+        {
+            "c_image": "https://i.pinimg.com/474x/b9/a9/c5/b9a9c5ce7013be0bfa4f1e9def880af6.jpg",
+            "c_name": "FishSeller"
         },
          {
             "c_image": "https://i.pinimg.com/474x/61/b9/59/61b9595ccea56316cd1666af7bfc8afa.jpg",
