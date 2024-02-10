@@ -1,89 +1,97 @@
 {
-    "data": [
-        {
-            "c_image": "https://i.pinimg.com/474x/74/52/8c/74528c5cf04e80e01563944eef7537f6.jpg",
-            "c_name": "today"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/49/24/69/492469f865754a8dac3dfec661decde8.jpg",
-            "c_name": "GardenFlowers"
-        },
-         {
-            "c_image": "https://i.pinimg.com/736x/66/38/5d/66385d72a3d19e49372ea5c32582b76e.jpg",
-            "c_name": "BlackDress"
-        },
-         {
-            "c_image": "https://i.pinimg.com/474x/6d/7e/4b/6d7e4b3d7b14f7ee005bb2915031c4b9.jpg",
-            "c_name": "mountain"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/38/65/5d/38655d2ca77972fb7bda5289f7a0041a.jpg",
-            "c_name": "Snow"
-        },
-         {
-            "c_image": "https://i.pinimg.com/474x/af/a4/e2/afa4e2769c7f5b523124b9be3a20a73d.jpg",
-            "c_name": "WaterFall"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/4b/f6/bd/4bf6bde4edc43ac8340dd3022f53218b.jpg",
-            "c_name": "NightStars"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/ee/a3/fe/eea3fe57ce5c2e741dbbeb3f811925ed.jpg",
-            "c_name": "Forest"
-        },
-         {
-            "c_image": "https://i.pinimg.com/474x/72/dc/cc/72dccc2fca4695c1afe925bc2b761b74.jpg",
-            "c_name": "Chef"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/1e/a3/e0/1ea3e0579ad3f867f25317dcaff37b6b.jpg",
-            "c_name": "VegetableSeller"
-        },
-        
-         {
-            "c_image": "https://i.pinimg.com/474x/e4/32/44/e43244641cfad0dd68e0a6a296e85726.jpg",
-            "c_name": "library"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/b9/a9/c5/b9a9c5ce7013be0bfa4f1e9def880af6.jpg",
-            "c_name": "FishSeller"
-        },
-         {
-            "c_image": "https://i.pinimg.com/474x/61/b9/59/61b9595ccea56316cd1666af7bfc8afa.jpg",
-            "c_name": "Couple"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/49/e5/c1/49e5c1730d65504fe46ce766f04c0927.jpg",
-            "c_name": "doctor"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/e9/17/89/e917892954365fe46bcd344e87055d48.jpg",
-            "c_name": "Teacher"
-        }, 
-        {
-            "c_image": "https://i.pinimg.com/474x/36/0b/ec/360bec18e6ba295924ec9fed6f42214f.jpg",
-            "c_name": "athlete"
-        },
-        {
-            "c_image": "https://i.pinimg.com/736x/fd/6f/78/fd6f7850930094551fafa6392fe98891.jpg",
-            "c_name": "varsity"
-        }, 
-        {
-            "c_image": "https://i.pinimg.com/474x/75/2d/51/752d5132da3ac52dde24fffcb992fc34.jpg",
-            "c_name": "direktur"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/bc/b8/20/bcb82014bc2cffe4390fbf54dc69b7a9.jpg",
-            "c_name": "Kingdom"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/3a/d6/ba/3ad6baae3f27522b45af965d284d8115.jpg",
-            "c_name": "LittlePrincess"
-        },
-        {
-            "c_image": "https://i.pinimg.com/474x/66/8e/52/668e52fafc3625721748e152c3d49b57.jpg",
-            "c_name": "FairyPrincess"
-        }
-    ]
+  "data": [
+    {
+      "c_image": "https://i.pinimg.com/474x/74/52/8c/74528c5cf04e80e01563944eef7537f6.jpg",
+      "c_name": "today"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/49/24/69/492469f865754a8dac3dfec661decde8.jpg",
+      "c_name": "GardenFlowers"
+    },
+    {
+      "c_image": "https://i.pinimg.com/736x/66/38/5d/66385d72a3d19e49372ea5c32582b76e.jpg",
+      "c_name": "BlackDress"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/6d/7e/4b/6d7e4b3d7b14f7ee005bb2915031c4b9.jpg",
+      "c_name": "mountain"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/38/65/5d/38655d2ca77972fb7bda5289f7a0041a.jpg",
+      "c_name": "Snow"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/af/a4/e2/afa4e2769c7f5b523124b9be3a20a73d.jpg",
+      "c_name": "WaterFall"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/4b/f6/bd/4bf6bde4edc43ac8340dd3022f53218b.jpg",
+      "c_name": "NightStars"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/ee/a3/fe/eea3fe57ce5c2e741dbbeb3f811925ed.jpg",
+      "c_name": "Forest"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/b0/6b/92/b06b92c52a974379cbc00c3b361c45e4.jpg",
+      "c_name": "CasualShopping"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/8d/97/17/8d971728f8118bf10134f9718c6d2f75.jpg",
+      "c_name": "TheAngels"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/72/dc/cc/72dccc2fca4695c1afe925bc2b761b74.jpg",
+      "c_name": "Chef"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/1e/a3/e0/1ea3e0579ad3f867f25317dcaff37b6b.jpg",
+      "c_name": "VegetableSeller"
+    },
+
+    {
+      "c_image": "https://i.pinimg.com/474x/e4/32/44/e43244641cfad0dd68e0a6a296e85726.jpg",
+      "c_name": "library"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/b9/a9/c5/b9a9c5ce7013be0bfa4f1e9def880af6.jpg",
+      "c_name": "FishSeller"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/61/b9/59/61b9595ccea56316cd1666af7bfc8afa.jpg",
+      "c_name": "Couple"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/49/e5/c1/49e5c1730d65504fe46ce766f04c0927.jpg",
+      "c_name": "doctor"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/e9/17/89/e917892954365fe46bcd344e87055d48.jpg",
+      "c_name": "Teacher"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/36/0b/ec/360bec18e6ba295924ec9fed6f42214f.jpg",
+      "c_name": "athlete"
+    },
+    {
+      "c_image": "https://i.pinimg.com/736x/fd/6f/78/fd6f7850930094551fafa6392fe98891.jpg",
+      "c_name": "varsity"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/75/2d/51/752d5132da3ac52dde24fffcb992fc34.jpg",
+      "c_name": "direktur"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/bc/b8/20/bcb82014bc2cffe4390fbf54dc69b7a9.jpg",
+      "c_name": "Kingdom"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/3a/d6/ba/3ad6baae3f27522b45af965d284d8115.jpg",
+      "c_name": "LittlePrincess"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/66/8e/52/668e52fafc3625721748e152c3d49b57.jpg",
+      "c_name": "FairyPrincess"
+    }
+  ]
 }
