@@ -97,6 +97,14 @@
       "c_name": "PilotCaptain"
     },
     {
+      "c_image": "https://i.pinimg.com/474x/a1/6c/ae/a16cae32a535dc7dd4fc0708ed0c9062.jpg",
+      "c_name": "Mechanic"
+    },
+    {
+      "c_image": "https://i.pinimg.com/474x/f1/b3/3c/f1b33c68ace8d035e8beb6e234b74952.jpg",
+      "c_name": "FireFighter"
+    },
+    {
       "c_image": "https://i.pinimg.com/736x/fd/6f/78/fd6f7850930094551fafa6392fe98891.jpg",
       "c_name": "varsity"
     },
